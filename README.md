@@ -17,6 +17,9 @@ To Create this I have followed follwing steps:-
 
 # Tech Used
 JAVA
+
 JavaFX 
+
 MySQL
+
 JDBC
